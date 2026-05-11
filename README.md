@@ -1,3 +1,12 @@
+### 🛠️ Tecnologías y Herramientas
+
+![Python](https://shields.io)
+![MySQL](https://shields.io)
+![HTML5](https://shields.io)
+![CSS3](https://shields.io)
+![Git](https://shields.io)
+
+
 🌍 Language / Idioma / Língua / Español | English | Português
 
 ¡Hola! Soy Enmanuel Jimenez 👋Programador Junior | Python Developer | Estudiante de Software
@@ -22,6 +31,12 @@
 📧 Email: enmanuelejaj@gmail.com
 
 📞 Teléfono: +351 911 151 993
+
+### 🎯 Objetivos y Contacto
+
+[![Gmail](https://shields.io)](mailto:enmanuelejaj@gmail.com)
+[![WhatsApp](https://shields.io)](https://wa.me)
+[![LinkedIn](https://shields.io)](TU_LINK_DE_LINKEDIN_AQUI)
 
 
 
@@ -48,6 +63,13 @@ Current Project (In Development):
 
 📧 Email: enmanuelejaj@gmail.com
 
+### 🎯 Objetivos y Contacto
+
+[![Gmail](https://shields.io)](mailto:enmanuelejaj@gmail.com)
+[![WhatsApp](https://shields.io)](https://wa.me)
+[![LinkedIn](https://shields.io)](TU_LINK_DE_LINKEDIN_AQUI)
+
+
 
 PORTUGUES:
 
@@ -73,3 +95,9 @@ Objetivos e Contato:
 💼 Meta 2024: Conquistar meu primeiro emprego como Desenvolvedor.
 
 📧 Email: enmanuelejaj@gmail.com
+
+### 🎯 Objetivos y Contacto
+
+[![Gmail](https://shields.io)](mailto:enmanuelejaj@gmail.com)
+[![WhatsApp](https://shields.io)](https://wa.me)
+[![LinkedIn](https://shields.io)](TU_LINK_DE_LINKEDIN_AQUI)

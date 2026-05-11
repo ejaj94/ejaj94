@@ -1,10 +1,6 @@
 ### 🛠️ Tecnologías y Herramientas:
 
-![Python](https://shields.io)
-![MySQL](https://shields.io)
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
-![Git](https://shields.io)
+![Python](https://shields.io) ![MySQL](https://shields.io) ![HTML5](https://shields.io) ![CSS3](https://shields.io) ![Git](https://shields.io)
 
 
 🌍 Language / Idioma / Língua / Español | English | Português

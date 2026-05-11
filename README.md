@@ -1,4 +1,4 @@
-### 🛠️ Tecnologías y Herramientas
+### 🛠️ Tecnologías y Herramientas:
 
 ![Python](https://shields.io)
 ![MySQL](https://shields.io)
